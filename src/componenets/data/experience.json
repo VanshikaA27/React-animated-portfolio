@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "Open AI API  Developer intern, SyncTape Technologies",
+    "organisation": "SyncTape Technologies",
+    "startDate": "Dec 2023",
+    "endDate": "Feb 2024",
+    "location": "Remote",
+    "experiences": [
+      "Developed Python leads generation system with Selenium, Beautiful Soup, and OpenAI API",
+      "Automated data extraction and personalized email drafting, reducing manual work"
+    ],
+    "imageSrc": "company/SyncTape.png"
+  }
+  
+]

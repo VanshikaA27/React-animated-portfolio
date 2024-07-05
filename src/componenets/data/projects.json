@@ -1,0 +1,34 @@
+[
+  {
+    "key": 1,
+    "title": "Gemini-Clone",
+    "imageSrc": "./assets/Project/Google_Gemini_logo.svg",
+    "description": "This is a project made with complete React js.",
+    
+    "source": "https://github.com/VanshikaA27/Gemini-Clone-"
+  },
+  {
+    "key": 2,
+    "title": "Body-X-ray-Image-Classification",
+    "imageSrc": "./assets/Project/Xray.png",
+    "description": "Applied Transfer Learning by utilizing pre-trained models like Xception.",
+    "demo": "https://github.com/VanshikaA27/X-ray-Body-Image-Classification",
+    "source": "https://github.com/VanshikaA27/X-ray-Body-Image-Classification"
+  },
+  {
+    "key": 3,
+    "title": "Breast-cancer-detection-model",
+    "imageSrc": "./assets/Project/breast.jpeg",
+    "description": "TPython, supervised learning, labeled datasets for breast cancer detection.",
+    "demo": "https://github.com/VanshikaA27/Breast-cancer-detection-model",
+    "source": "https://github.com/VanshikaA27/Breast-cancer-detection-model"
+  },
+  {
+    "key": 4,
+    "title": "Leads Generation Tool",
+    "imageSrc": "./assets/Project/Leads.jpg",
+    "description": "Python leads generation system created with Selenium, Beautiful Soup, and OpenAI API.",
+    "demo": "https://github.com/VanshikaA27/leads-generation",
+    "source": "https://github.com/VanshikaA27/leads-generation"
+  }
+]
